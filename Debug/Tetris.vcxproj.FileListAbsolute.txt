@@ -1,0 +1,2 @@
+F:\Github\Tetris\Tetris\Debug\Tetris.exe
+F:\Github\Tetris\Tetris\Debug\Tetris.pdb
